@@ -1,0 +1,25 @@
+html, body {
+
+}
+header {
+  position: fixed;
+  display: flex;
+  flex-direction: row;
+}
+img {
+  height: auto;
+  width: 100%;
+  display: block;
+  order: 1;
+  align-self: flex-start;
+}
+nav {
+  order: 2;
+  align-self: center;
+}
+
+@media screen and (min-width: 800px) {
+  body {
+    margin: auto;
+  }
+}
