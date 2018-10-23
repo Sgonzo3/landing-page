@@ -45,6 +45,13 @@ main {
   text-align: center;
 }
 
+footer {
+  text-align: center;
+}
+
+footer, a {
+  text-decoration: none;
+}
 @media screen and (min-width: 800px) {
   html, body {
     width: 800px;
