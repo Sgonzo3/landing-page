@@ -26,7 +26,7 @@ img {
 }
 nav {
   order: 2;
-  align-self: center;
+  align-self: flex-end;
   margin: auto;
   /* display: flex;
   flex-direction: row;
