@@ -84,7 +84,7 @@ main {
   padding-top: 80px;
 }
 #answer-table {
-  border: solid black 1px;
+  /* border: solid black 1px; */
   height: 80vh;
   width: 100%;
   display: flex;
