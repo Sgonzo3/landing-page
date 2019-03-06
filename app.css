@@ -72,9 +72,9 @@ main {
   /* justify-content: flex-start; */
   overflow-x: scroll;
 }
-#gallery video {
-  height: auto;
-  max-width: 100%;
+video {
+ height: auto;
+ max-width: 100%;
 }
 #gallery img {
   height: auto;
@@ -84,7 +84,7 @@ main {
   padding-top: 80px;
 }
 #answer-table {
-  /* border: solid black 1px; */
+  border: solid black 1px;
   height: 80vh;
   width: 100%;
   display: flex;
@@ -174,7 +174,7 @@ footer a {
     margin: auto;
   } */
   #section-1 {
-    width: 1000px;
+/*     width: 1000px; */
     margin: auto;
   }
   #section-2 {
